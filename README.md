@@ -54,3 +54,5 @@ conda env create -f environment.yaml
 
 # Activate the environment
 conda activate <env_name>
+
+Additionally "sounddevice" has to be installed via pip
